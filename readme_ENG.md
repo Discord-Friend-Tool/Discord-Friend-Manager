@@ -91,7 +91,7 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Question%20Mark.png" alt="Red Question Mark" width="25" height="25" /> **FAQ**
 
 ### **How do I find my Discord token?**
-Check out this [detailed guide](https://www.remote.tools/remote-work/how-to-get-discord-token).
+Check out this [detailed guide](https://www.androidauthority.com/get-discord-token-3149920/).
 
 ### **Why are there delays in operations?**
 Delays and cooldowns are designed to **prevent suspensions** and ensure account safety.
