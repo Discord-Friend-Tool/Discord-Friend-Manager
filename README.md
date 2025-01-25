@@ -90,7 +90,7 @@ Questo tool è stato creato **a scopo informativo**. L'utilizzo del tool è inte
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Question%20Mark.png" alt="Red Question Mark" width="25" height="25" /> **FAQ**
 
 ### **Come trovo il mio token Discord?**
-Consulta questa [guida dettagliata](https://www.remote.tools/remote-work/how-to-get-discord-token).
+Consulta questa [guida dettagliata](https://www.androidauthority.com/get-discord-token-3149920/).
 
 ### **Perché ci sono ritardi nelle operazioni?**
 I ritardi e i cooldown sono progettati per **evitare sospensioni** e garantire la sicurezza del tuo account.
