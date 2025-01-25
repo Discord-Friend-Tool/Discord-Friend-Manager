@@ -17,7 +17,7 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 
 ### 🌍 **Select Language | Seleziona Lingua**
 
-| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano](README_IT.md) | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English](README_ENG.md) |
+| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano](readme_IT.md) | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English](readme_ENG.md) |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 
 </div>
