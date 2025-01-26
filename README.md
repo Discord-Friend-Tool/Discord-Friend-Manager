@@ -15,9 +15,9 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 
 ---
 
-### 🌍 **Select Language | Seleziona Lingua**
+### 🌍 **Select Language**
 
-| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano](readme_IT.md) | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English](readme_ENG.md) | More language cooming soon                             |
+| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano](readme_IT.md) | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English](readme_ENG.md) | More languages coming soon                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -41,4 +41,40 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 - [ ] 🇵🇹 **Portuguese**  
 - [ ] 🌍 **Other languages coming soon!**
 
+</div>
+
+---
+
+### 🌟 **Help Translate the Application!**
+
+Do you want to see this application available in your native language?  
+You can contribute by translating it and **get credited directly in this README!**
+
+All you need to do is click the button below and start translating:  
+
+➡️ [**Translate with Your Language**](https://github.com/Discord-Friend-Tool/Discord-Friend-Manager/tree/main/local)
+
+Once your translation is submitted and verified, your name will appear in the **Contributors** section of this README.  
+
+✨ *Your support helps us grow and reach more users worldwide!*
+
+---
+
+### 🏅 **Language Contributors**
+
+We would like to thank the following contributors for helping translate Discord Friend Manager into other languages:
+
+ 🇮🇹 **Italian**: [ImElio](https://github.com/ImElio)
+ 
+🇬🇧 **English**: [ImElio](https://github.com/ImElio)
+  
+ 🇫🇷 **French**: [ImElio](https://github.com/ImElio) 
+
+
+ 🇩🇪 **German**: *Looking for contributors!*  
+ 🇪🇸 **Spanish**: *Looking for contributors!*  
+ 🇵🇹 **Portuguese**: *Looking for contributors!*  
+ 🌍 **Other Languages**: *Looking for contributors!*
+
+💡 *Want your name here? Contribute to a translation today!*
 </div>
