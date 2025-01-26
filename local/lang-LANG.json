@@ -1,36 +1,44 @@
 {
-  "LanguageName": "English",
-  "ButtonShow": "Show",
+  "WindowTitle": "Discord Friend Manager",
+  "DescriptionText": "Manage your profile and friend list",
+  "DevelopedBy": "Developed by Elio",
+
+  "LabelToken": "Token:",
   "ButtonHide": "Hide",
+  "ButtonShow": "Show",
   "ButtonLogin": "Login",
   "ButtonCheckUpdate": "Check Update",
+
+  "LabelSearch": "Search",
   "ButtonSearch": "Search",
   "ButtonReset": "Reset",
-  "ButtonRemove": "Remove",
+
   "ButtonPreviousPage": "Previous",
   "ButtonNextPage": "Next",
 
-  "LabelToken": "Token:",
-  "LabelSearch": "Perform a search",
-  "LabelSelectedCount": "Selected:",
-
-  "PopupRemoving": "Starting removal process...",
-  "PopupErrorRemoving": "Error during removal.",
-  "PopupSuccessRemoving": "Friend successfully removed.",
-  "PopupCooldown": "Buttons will be disabled for 5 seconds to prevent account ban.",
-  "PopupWait": "Please wait before removing another friend.",
-  "PopupTitleUpdate": "Update",
-  "PopupNoUpdate": "No update found",
-  "PopupNewUpdate": "New update, do you want to download it?",
-
+  "MessageBoxInsertToken": "Please insert your token.",
   "MessageBoxInvalidToken": "Invalid token.",
-  "MessageBoxInsertToken": "Please enter a token.",
   "MessageBoxNoFriends": "No friends found.",
 
-  "StatusUnverified": "Unverified",
   "StatusVerified": "Verified",
+  "StatusUnverified": "Unverified",
 
-  "WindowTitle": "Discord Friend Manager",
-  "DescriptionText": "Manage your friends list",
-  "DevelopedBy": "Developed by Elio"
+  "ButtonRemove": "Remove",
+  "LabelSelectedCount": "Selected:",
+
+  "PopupWait": "Please wait for the cooldown to finish.",
+  "PopupRemoving": "Removing friend...",
+  "PopupErrorRemoving": "Error while removing friend.",
+  "PopupSuccessRemoving": "Friend removed successfully.",
+  "PopupCooldown": "Cooldown in progress...",
+
+  "PopupNewUpdate": "A new update is available. Do you want to download it?",
+  "PopupTitleUpdate": "New Update",
+  "PopupUpdateSuccess": "Update installed successfully.",
+  "PopupUpdateError": "Error installing the update.",
+  "PopupNoUpdate": "No new update available.",
+  "PopupCheckUpdateError": "Error checking for updates.",
+
+  "PopupConfirmLanguageChange": "Do you really want to switch language to {0}?",
+  "PopupTitleLanguageChange": "Change Language"
 }
