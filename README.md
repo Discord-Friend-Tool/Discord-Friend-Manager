@@ -47,6 +47,7 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 
 ### 🌟 **Help Translate the Application!**
 
+
 Do you want to see this application available in your native language?  
 You can contribute by translating it and **get credited directly in this README!**
 
@@ -57,6 +58,11 @@ All you need to do is click the button below and start translating:
 Once your translation is submitted and verified, your name will appear in the **Contributors** section of this README.  
 
 ✨ *Your support helps us grow and reach more users worldwide!*
+
+### 🌍 **How do I contribute?**
+
+| [Guide on how to contribute](https://github.com/Discord-Friend-Tool/Discord-Friend-Manager/blob/main/local/How_to_contribute.md) |
+|----------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
