@@ -30,13 +30,14 @@ This tool is created **for informational purposes only**. Its usage is entirely 
 - [x] 🇮🇹 **Italian**  
 - [x] 🇬🇧 **English**  
 - [x] 🇫🇷 **French**
+- [X] 🇩🇪 **German**
+- [X] 🇨🇳 **Chinese**  
 
 </div>
 
 <div align="center" style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; margin: 15px 0;">
 
 #### 🚧 **Coming Soon:**
-- [ ] 🇩🇪 **German**  
 - [ ] 🇪🇸 **Spanish**  
 - [ ] 🇵🇹 **Portuguese**  
 - [ ] 🌍 **Other languages coming soon!**
@@ -75,6 +76,10 @@ We would like to thank the following contributors for helping translate Discord 
 🇬🇧 **English**: [ImElio](https://github.com/ImElio)
   
  🇫🇷 **French**: [ImElio](https://github.com/ImElio) 
+
+ 🇩🇪 **German**: [IlostBiscuits](https://github.com/iLostBiscuits)
+
+  🇨🇳 **Chinese**: [Shokkino](https://github.com/Shokkinoh)
 
 
  🇩🇪 **German**: *Looking for contributors!*  
