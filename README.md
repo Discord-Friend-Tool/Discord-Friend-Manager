@@ -82,7 +82,6 @@ We would like to thank the following contributors for helping translate Discord 
   🇨🇳 **Chinese**: [Shokkino](https://github.com/Shokkinoh)
 
 
- 🇩🇪 **German**: *Looking for contributors!*  
  🇪🇸 **Spanish**: *Looking for contributors!*  
  🇵🇹 **Portuguese**: *Looking for contributors!*  
  🌍 **Other Languages**: *Looking for contributors!*
