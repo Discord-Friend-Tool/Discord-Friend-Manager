@@ -40,5 +40,18 @@
   "PopupCheckUpdateError": "Error checking for updates.",
 
   "PopupConfirmLanguageChange": "Do you really want to switch language to {0}?",
-  "PopupTitleLanguageChange": "Change Language"
+  "PopupTitleLanguageChange": "Change Language",
+
+  "PopupProgressApi": "Connecting to API...",
+  "PopupProgressToken": "Accessing temporary token...",
+  "PopupProgressFriendList": "Accessing friend list as {0}...",
+  "PopupProgressRemoving": "Removing friend {0}...",
+  "PopupRemovingMultiple": "Removing multiple friends...",
+  "ButtonRemoveMultiple": "Remove {0}",
+
+  "PaginationInfo": "Page {0} of {1}",
+
+  "PopupConfirmRemoveMultiple": "You are about to remove {0} friends in one go. This is risky! Do you want to proceed?",
+  "PopupFriendRemoved": "Removed {0}",
+  "PopupTitleWarning": "Warning"
 }
